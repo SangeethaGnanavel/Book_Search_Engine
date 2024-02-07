@@ -15,27 +15,24 @@ Web application to search for new books and to keep a list of books to purchase.
 
 ## Usage
 
-The Book Search Engine is a webapplication that helps to.
+The Book Search Engine is a full stack webapplication that helps to search books and save the books by logging into the application.
 
 ## Technologies Used
 
-- Node js
-- Concepts of Object Oriented Programming
-- Javascript
-- Promise API's
-  Packages Used
-- Inquirer
-- Jest
+- Express js
+- Apollo Provider
+- GraphQL
+- React
+- MOngoDB
 
 ## Installation
 
 - Use the command "npm i" to install the packages.
-- Use the command "node index.js" to execute the application.
-- Use the command "npm run test" to execute the test scripts.
+- Use the command "node server/server.js" to execute the application.
 
 ## Tests
 
-This application uses Jest test suite.Test scripts for individual class is present under test folder. Execute the command "npm run test" to execute the test scripts
+NA
 
 ## License
 
@@ -45,8 +42,8 @@ Click the link to read license information https://opensource.org/licenses/MIT
 
 ## Questions
 
-GitHub repository URL : https://github.com/SangeethaGnanavel/SVG_Logo_Maker
+GitHub repository URL : https://github.com/SangeethaGnanavel/Book_Search_Engine
 
 Email for Question : sangeetha.gnana@gmail.com
 
-Link to video : https://drive.google.com/file/d/1enG_iYXZgUum81FHjQucifbKrwd-6CAg/view?usp=sharing
+Link to video : https://book-search-engine-36wl.onrender.com
